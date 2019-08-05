@@ -1,0 +1,5 @@
+num=int(input("Digite um número:"))
+antecessor=int(num -1)
+print("Seu antecessor é: %s " %(antecessor))
+sucessor= int(num + 1)
+print("Seu sucessor é: %s " %(sucessor))
